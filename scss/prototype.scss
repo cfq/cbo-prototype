@@ -1,0 +1,53 @@
+.claims-type-selector, .sort-bar {
+  overflow: hidden;
+  margin: 0;
+
+  li {
+    float: left;
+
+    label {
+      cursor: pointer;
+      padding: 10px 10px 10px 0;
+    }
+  }
+}
+
+.sort-bar li {
+  padding: 0.4em 0.6em 0.4em 0;
+}
+
+.action-buttons {
+  a, select {
+    display: inline-block;
+    margin-right: 0.4em;
+  }
+}
+
+.allocation-summary {
+  margin-top: 3em;
+}
+
+.action-buttons {
+  .select-all-button {
+    width: 6em;
+  }
+
+  select {
+    border: 1px solid #ededed;
+    padding: 0.4em;
+    width: 13em;
+    height: 3em;
+  }
+}
+
+.claim-list-table {
+  tbody {
+    td:first-child, td:nth-child(2) {
+      cursor: pointer;
+
+      label, input {
+        cursor: pointer;
+      }
+    }
+  }
+}
