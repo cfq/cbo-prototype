@@ -1,3 +1,7 @@
+.claim-controls {
+  margin-top: 1em;
+}
+
 .claims-type-selector, .sort-bar {
   overflow: hidden;
   margin: 0;
@@ -27,11 +31,11 @@
   margin-top: 3em;
 }
 
-.action-buttons {
-  .select-all-button {
-    width: 6em;
-  }
+.select-all-button {
+  width: 6em;
+}
 
+.action-buttons {
   select {
     border: 1px solid #ededed;
     padding: 0.4em;
@@ -41,6 +45,8 @@
 }
 
 .claim-list-table {
+  width: 600px;
+
   tbody {
     td:first-child, td:nth-child(2) {
       cursor: pointer;
@@ -50,4 +56,8 @@
       }
     }
   }
+}
+
+.select-all-cell {
+  width: 6.6em;
 }

@@ -1,3 +1,6 @@
+.claim-controls {
+  margin-top: 1em; }
+
 .claims-type-selector, .sort-bar {
   overflow: hidden;
   margin: 0; }
@@ -17,15 +20,21 @@
 .allocation-summary {
   margin-top: 3em; }
 
-.action-buttons .select-all-button {
+.select-all-button {
   width: 6em; }
+
 .action-buttons select {
   border: 1px solid #ededed;
   padding: 0.4em;
   width: 13em;
   height: 3em; }
 
-.claim-list-table tbody td:first-child, .claim-list-table tbody td:nth-child(2) {
-  cursor: pointer; }
-  .claim-list-table tbody td:first-child label, .claim-list-table tbody td:first-child input, .claim-list-table tbody td:nth-child(2) label, .claim-list-table tbody td:nth-child(2) input {
+.claim-list-table {
+  width: 600px; }
+  .claim-list-table tbody td:first-child, .claim-list-table tbody td:nth-child(2) {
     cursor: pointer; }
+    .claim-list-table tbody td:first-child label, .claim-list-table tbody td:first-child input, .claim-list-table tbody td:nth-child(2) label, .claim-list-table tbody td:nth-child(2) input {
+      cursor: pointer; }
+
+.select-all-cell {
+  width: 6.6em; }
