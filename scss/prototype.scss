@@ -2,12 +2,14 @@
   margin-top: 1em;
 }
 
-.claims-type-selector, .sort-bar {
+.claims-type-selector {
   overflow: hidden;
   margin: 0;
+  width: 40em;
 
   li {
     float: left;
+    margin-top: 5px;
 
     label {
       cursor: pointer;
@@ -16,8 +18,12 @@
   }
 }
 
-.sort-bar li {
-  padding: 0.4em 0.6em 0.4em 0;
+.sort-bar {
+  margin: 1em 0;
+}
+
+#assing-count {
+  width: 100px;
 }
 
 .action-buttons {
@@ -45,7 +51,7 @@
 }
 
 .claim-list-table {
-  width: 600px;
+  width: 700px;
 
   tbody {
     td:first-child, td:nth-child(2) {

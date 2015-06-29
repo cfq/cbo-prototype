@@ -1,0 +1,3502 @@
+[
+    {
+        "advocate": "John Ralph",
+        "date": "2015-05-30 16:57:56.791683",
+        "number": "C-33675",
+        "type": "Fixed fee",
+        "value": 3730.5621156206944
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-05-30 16:57:56.791896",
+        "number": "C-95385",
+        "type": "Fixed fee",
+        "value": 54738.057174052956
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-05-30 16:57:56.792804",
+        "number": "C-32354",
+        "type": "Guilty plea",
+        "value": 4458.181576367626
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-05-30 16:57:56.792834",
+        "number": "C-18563",
+        "type": "Cracked",
+        "value": 15465.292442150221
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-05-30 16:57:56.792878",
+        "number": "C-77108",
+        "type": "Trial",
+        "value": 20181.06853121983
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-05-30 16:57:56.793092",
+        "number": "C-48227",
+        "type": "Fixed fee",
+        "value": 9140.468810345314
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-05-30 16:57:56.793152",
+        "number": "C-48298",
+        "type": "Re-trial",
+        "value": 4230.056711036388
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-05-30 16:57:56.793352",
+        "number": "C-99918",
+        "type": "Fixed fee",
+        "value": 7680.388617504729
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-05-30 16:57:56.793456",
+        "number": "C-66646",
+        "type": "Fixed fee",
+        "value": 6317.998921776665
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-05-30 16:57:56.793582",
+        "number": "C-48500",
+        "type": "Guilty plea",
+        "value": 9631.620923803837
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-05-30 16:57:56.794991",
+        "number": "C-18504",
+        "type": "Cracked",
+        "value": 6821.839041289512
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-05-30 16:57:56.797592",
+        "number": "C-66780",
+        "type": "Re-trial",
+        "value": 7077.87079765125
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-05-30 16:57:56.797621",
+        "number": "C-83446",
+        "type": "Fixed fee",
+        "value": 12612.977607264762
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-05-30 16:57:56.797764",
+        "number": "C-67744",
+        "type": "Trial",
+        "value": 10824.75194382989
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-05-30 16:57:56.797807",
+        "number": "C-75702",
+        "type": "Trial",
+        "value": 1156.084927525022
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-05-30 16:57:56.798524",
+        "number": "C-52247",
+        "type": "Trial",
+        "value": 17335.513239725682
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-05-31 16:57:56.791836",
+        "number": "C-67533",
+        "type": "Fixed fee",
+        "value": 11619.881434015086
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-05-31 16:57:56.792145",
+        "number": "C-84278",
+        "type": "Cracked",
+        "value": 69564.05857024282
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-05-31 16:57:56.792452",
+        "number": "C-56740",
+        "type": "Trial",
+        "value": 51322.39296193149
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-05-31 16:57:56.793045",
+        "number": "C-86938",
+        "type": "Fixed fee",
+        "value": 7637.551765235228
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-05-31 16:57:56.793275",
+        "number": "C-81068",
+        "type": "Cracked",
+        "value": 3978.885152872655
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-05-31 16:57:56.793614",
+        "number": "C-49883",
+        "type": "Trial",
+        "value": 6830.147689179609
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-05-31 16:57:56.793777",
+        "number": "C-89217",
+        "type": "Cracked",
+        "value": 12469.961648353712
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-05-31 16:57:56.794234",
+        "number": "C-84300",
+        "type": "Cracked",
+        "value": 14410.833573380472
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-05-31 16:57:56.794660",
+        "number": "C-77817",
+        "type": "Fixed fee",
+        "value": 13142.836168368292
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-05-31 16:57:56.795688",
+        "number": "C-69149",
+        "type": "Guilty plea",
+        "value": 68769.50930037486
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-05-31 16:57:56.795905",
+        "number": "C-96436",
+        "type": "Cracked",
+        "value": 63370.55876010559
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-05-31 16:57:56.796420",
+        "number": "C-54536",
+        "type": "Cracked",
+        "value": 12319.41472092672
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-05-31 16:57:56.796725",
+        "number": "C-61328",
+        "type": "Cracked",
+        "value": 17860.1822888294
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-05-31 16:57:56.797406",
+        "number": "C-84998",
+        "type": "Trial",
+        "value": 11197.431831891652
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-05-31 16:57:56.798190",
+        "number": "C-83858",
+        "type": "Guilty plea",
+        "value": 1831.4138235554672
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-05-31 16:57:56.798204",
+        "number": "C-79118",
+        "type": "Guilty plea",
+        "value": 11774.366188895605
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-01 16:57:56.791759",
+        "number": "C-94039",
+        "type": "Trial",
+        "value": 5393.914430988689
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-01 16:57:56.791774",
+        "number": "C-16641",
+        "type": "Re-trial",
+        "value": 3616.980757486353
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-01 16:57:56.791803",
+        "number": "C-44201",
+        "type": "Re-trial",
+        "value": 12242.343684006168
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-01 16:57:56.792683",
+        "number": "C-96672",
+        "type": "Fixed fee",
+        "value": 5509.962699710707
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-01 16:57:56.792819",
+        "number": "C-51947",
+        "type": "Re-trial",
+        "value": 14473.407452269403
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-01 16:57:56.793246",
+        "number": "C-10240",
+        "type": "Trial",
+        "value": 14871.168322042982
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-01 16:57:56.794186",
+        "number": "C-79529",
+        "type": "Trial",
+        "value": 48718.07848193392
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-01 16:57:56.794201",
+        "number": "C-25319",
+        "type": "Cracked",
+        "value": 16027.923974730576
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-01 16:57:56.794508",
+        "number": "C-90343",
+        "type": "Guilty plea",
+        "value": 13861.668437405366
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-01 16:57:56.794645",
+        "number": "C-36163",
+        "type": "Guilty plea",
+        "value": 3809.9605412425535
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-01 16:57:56.795535",
+        "number": "C-89327",
+        "type": "Guilty plea",
+        "value": 9682.286121779618
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-01 16:57:56.795644",
+        "number": "C-86715",
+        "type": "Cracked",
+        "value": 4808.525265617655
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-01 16:57:56.795813",
+        "number": "C-34224",
+        "type": "Guilty plea",
+        "value": 14947.863871994023
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-01 16:57:56.795827",
+        "number": "C-32472",
+        "type": "Guilty plea",
+        "value": 13843.76430820125
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-01 16:57:56.795998",
+        "number": "C-70498",
+        "type": "Cracked",
+        "value": 2623.6172162252165
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-01 16:57:56.796314",
+        "number": "C-83398",
+        "type": "Fixed fee",
+        "value": 2751.7655059561025
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-01 16:57:56.796529",
+        "number": "C-49283",
+        "type": "Guilty plea",
+        "value": 8196.883406507728
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-01 16:57:56.796740",
+        "number": "C-52350",
+        "type": "Cracked",
+        "value": 62452.52886704907
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-01 16:57:56.797028",
+        "number": "C-83102",
+        "type": "Guilty plea",
+        "value": 8478.313706679524
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-01 16:57:56.797778",
+        "number": "C-86750",
+        "type": "Re-trial",
+        "value": 37545.165509043814
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-01 16:57:56.798064",
+        "number": "C-90469",
+        "type": "Re-trial",
+        "value": 10837.255377441787
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-01 16:57:56.798594",
+        "number": "C-45970",
+        "type": "Trial",
+        "value": 6574.204333115008
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-02 16:57:56.792115",
+        "number": "C-55368",
+        "type": "Fixed fee",
+        "value": 14877.973922469511
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-02 16:57:56.792401",
+        "number": "C-81084",
+        "type": "Fixed fee",
+        "value": 51209.16534094062
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-02 16:57:56.792558",
+        "number": "C-40535",
+        "type": "Trial",
+        "value": 1681.2904628770118
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-02 16:57:56.792638",
+        "number": "C-43844",
+        "type": "Re-trial",
+        "value": 8545.054360718903
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-02 16:57:56.793718",
+        "number": "C-43579",
+        "type": "Trial",
+        "value": 10052.25241224365
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-02 16:57:56.793747",
+        "number": "C-76444",
+        "type": "Re-trial",
+        "value": 1583.4076796665802
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-02 16:57:56.794125",
+        "number": "C-69997",
+        "type": "Guilty plea",
+        "value": 41332.7283248817
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-02 16:57:56.794278",
+        "number": "C-61852",
+        "type": "Cracked",
+        "value": 9190.720691583001
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-02 16:57:56.794720",
+        "number": "C-83209",
+        "type": "Guilty plea",
+        "value": 6826.313273899548
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-02 16:57:56.795505",
+        "number": "C-82280",
+        "type": "Fixed fee",
+        "value": 3657.2203001809658
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-02 16:57:56.795968",
+        "number": "C-23989",
+        "type": "Re-trial",
+        "value": 3894.4965995916496
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-02 16:57:56.795983",
+        "number": "C-10748",
+        "type": "Cracked",
+        "value": 7512.5933227104415
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-02 16:57:56.796998",
+        "number": "C-25943",
+        "type": "Cracked",
+        "value": 15668.611029127002
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-02 16:57:56.797331",
+        "number": "C-99418",
+        "type": "Fixed fee",
+        "value": 48870.88341511619
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-02 16:57:56.797691",
+        "number": "C-77248",
+        "type": "Re-trial",
+        "value": 49105.14905623936
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-02 16:57:56.797849",
+        "number": "C-24049",
+        "type": "Trial",
+        "value": 1792.4541810240617
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-02 16:57:56.797921",
+        "number": "C-53315",
+        "type": "Cracked",
+        "value": 7952.166827484554
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-03 16:57:56.791622",
+        "number": "C-27225",
+        "type": "Fixed fee",
+        "value": 40182.040857780215
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-03 16:57:56.792436",
+        "number": "C-33041",
+        "type": "Re-trial",
+        "value": 17900.310322093952
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-03 16:57:56.792573",
+        "number": "C-32663",
+        "type": "Cracked",
+        "value": 9868.844119425505
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-03 16:57:56.792620",
+        "number": "C-65825",
+        "type": "Guilty plea",
+        "value": 11459.446693472804
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-03 16:57:56.793107",
+        "number": "C-68428",
+        "type": "Fixed fee",
+        "value": 15328.168121154304
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-03 16:57:56.793673",
+        "number": "C-64327",
+        "type": "Fixed fee",
+        "value": 18244.66903658966
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-03 16:57:56.794021",
+        "number": "C-88136",
+        "type": "Trial",
+        "value": 7170.217166098884
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-03 16:57:56.796680",
+        "number": "C-51481",
+        "type": "Trial",
+        "value": 17488.959688528466
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-03 16:57:56.796710",
+        "number": "C-18425",
+        "type": "Trial",
+        "value": 15836.28531320554
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-03 16:57:56.797012",
+        "number": "C-26382",
+        "type": "Fixed fee",
+        "value": 4939.472595682917
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-03 16:57:56.797239",
+        "number": "C-13060",
+        "type": "Fixed fee",
+        "value": 14836.1627348308
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-03 16:57:56.797346",
+        "number": "C-78798",
+        "type": "Re-trial",
+        "value": 12132.369668209592
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-03 16:57:56.797607",
+        "number": "C-63563",
+        "type": "Fixed fee",
+        "value": 27644.18755439739
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-03 16:57:56.798538",
+        "number": "C-84208",
+        "type": "Fixed fee",
+        "value": 46473.030524299145
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-03 16:57:56.798643",
+        "number": "C-32692",
+        "type": "Cracked",
+        "value": 618.8576258037015
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-03 16:57:56.799099",
+        "number": "C-21198",
+        "type": "Cracked",
+        "value": 3080.1582103361
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-03 16:57:56.799127",
+        "number": "C-16340",
+        "type": "Guilty plea",
+        "value": 12353.369801855079
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-04 16:57:56.791553",
+        "number": "C-46730",
+        "type": "Trial",
+        "value": 3886.168761638219
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-04 16:57:56.791725",
+        "number": "C-44233",
+        "type": "Guilty plea",
+        "value": 5670.527827194514
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-04 16:57:56.792007",
+        "number": "C-31971",
+        "type": "Fixed fee",
+        "value": 4536.103150067809
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-04 16:57:56.792200",
+        "number": "C-83014",
+        "type": "Guilty plea",
+        "value": 11352.072895496138
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-04 16:57:56.792418",
+        "number": "C-21318",
+        "type": "Re-trial",
+        "value": 24420.496466299144
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-04 16:57:56.793171",
+        "number": "C-71008",
+        "type": "Guilty plea",
+        "value": 9081.789854694773
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-04 16:57:56.793552",
+        "number": "C-65919",
+        "type": "Fixed fee",
+        "value": 2866.3526960010245
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-04 16:57:56.795399",
+        "number": "C-80261",
+        "type": "Cracked",
+        "value": 7798.528523926398
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-04 16:57:56.797663",
+        "number": "C-87692",
+        "type": "Trial",
+        "value": 26211.218106825818
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-04 16:57:56.797949",
+        "number": "C-26279",
+        "type": "Cracked",
+        "value": 18984.93108125221
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-04 16:57:56.797963",
+        "number": "C-74000",
+        "type": "Cracked",
+        "value": 16882.43078752402
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-04 16:57:56.798047",
+        "number": "C-44670",
+        "type": "Guilty plea",
+        "value": 14313.842949045547
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-04 16:57:56.798322",
+        "number": "C-53908",
+        "type": "Trial",
+        "value": 17489.7105694498
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-04 16:57:56.798467",
+        "number": "C-60385",
+        "type": "Guilty plea",
+        "value": 55711.93472203004
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-04 16:57:56.798700",
+        "number": "C-12075",
+        "type": "Trial",
+        "value": 16241.47365047855
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-05 16:57:56.791488",
+        "number": "C-58176",
+        "type": "Re-trial",
+        "value": 18785.648230974533
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-05 16:57:56.793290",
+        "number": "C-92985",
+        "type": "Trial",
+        "value": 7139.954514428518
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-05 16:57:56.793335",
+        "number": "C-96214",
+        "type": "Fixed fee",
+        "value": 16261.564812500403
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-05 16:57:56.794446",
+        "number": "C-81134",
+        "type": "Trial",
+        "value": 15766.587289803005
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-05 16:57:56.795036",
+        "number": "C-67306",
+        "type": "Trial",
+        "value": 7392.362568116427
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-05 16:57:56.795142",
+        "number": "C-70693",
+        "type": "Trial",
+        "value": 13979.007214142473
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-05 16:57:56.795444",
+        "number": "C-82068",
+        "type": "Fixed fee",
+        "value": 15476.634701965606
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-05 16:57:56.796013",
+        "number": "C-13704",
+        "type": "Trial",
+        "value": 12053.590388545925
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-05 16:57:56.796208",
+        "number": "C-63519",
+        "type": "Trial",
+        "value": 12462.935627928016
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-05 16:57:56.796512",
+        "number": "C-51836",
+        "type": "Trial",
+        "value": 6079.195295642603
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-05 16:57:56.796604",
+        "number": "C-27469",
+        "type": "Guilty plea",
+        "value": 4073.9850743081556
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-05 16:57:56.796935",
+        "number": "C-78606",
+        "type": "Re-trial",
+        "value": 67564.2690526693
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-05 16:57:56.797119",
+        "number": "C-88571",
+        "type": "Re-trial",
+        "value": 7508.675162200856
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-05 16:57:56.797165",
+        "number": "C-48838",
+        "type": "Trial",
+        "value": 20331.641803888644
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-05 16:57:56.797316",
+        "number": "C-39628",
+        "type": "Trial",
+        "value": 6750.722954429671
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-05 16:57:56.797821",
+        "number": "C-11983",
+        "type": "Cracked",
+        "value": 7095.171105684599
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-05 16:57:56.798005",
+        "number": "C-62174",
+        "type": "Cracked",
+        "value": 35939.128525671156
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-05 16:57:56.798552",
+        "number": "C-76393",
+        "type": "Fixed fee",
+        "value": 11160.89792156586
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-05 16:57:56.798566",
+        "number": "C-98115",
+        "type": "Cracked",
+        "value": 66449.65732186183
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-05 16:57:56.798899",
+        "number": "C-31078",
+        "type": "Re-trial",
+        "value": 1546.1132234055256
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-06 16:57:56.791865",
+        "number": "C-20098",
+        "type": "Re-trial",
+        "value": 7883.8161793714335
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-06 16:57:56.792772",
+        "number": "C-16671",
+        "type": "Trial",
+        "value": 2995.701161943867
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-06 16:57:56.792939",
+        "number": "C-92900",
+        "type": "Trial",
+        "value": 21491.069525934312
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-06 16:57:56.792954",
+        "number": "C-68445",
+        "type": "Re-trial",
+        "value": 1342.686085402303
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-06 16:57:56.793412",
+        "number": "C-81758",
+        "type": "Cracked",
+        "value": 17920.296415333825
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-06 16:57:56.794066",
+        "number": "C-93532",
+        "type": "Fixed fee",
+        "value": 12925.726642827743
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-06 16:57:56.794110",
+        "number": "C-48588",
+        "type": "Re-trial",
+        "value": 5892.50925047033
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-06 16:57:56.794219",
+        "number": "C-37858",
+        "type": "Fixed fee",
+        "value": 12623.803538377226
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-06 16:57:56.794735",
+        "number": "C-47047",
+        "type": "Trial",
+        "value": 16332.775616026252
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-06 16:57:56.796574",
+        "number": "C-18525",
+        "type": "Trial",
+        "value": 13401.120531011966
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-06 16:57:56.798148",
+        "number": "C-42281",
+        "type": "Cracked",
+        "value": 8928.007994346983
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-06 16:57:56.798784",
+        "number": "C-38036",
+        "type": "Cracked",
+        "value": 10076.96338441378
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-06 16:57:56.799029",
+        "number": "C-64074",
+        "type": "Guilty plea",
+        "value": 46980.56540734261
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-07 16:57:56.791880",
+        "number": "C-92406",
+        "type": "Fixed fee",
+        "value": 14630.821930829481
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-07 16:57:56.791948",
+        "number": "C-46938",
+        "type": "Fixed fee",
+        "value": 15474.913153946693
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-07 16:57:56.791978",
+        "number": "C-18331",
+        "type": "Cracked",
+        "value": 3953.4481847140805
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-07 16:57:56.792217",
+        "number": "C-93476",
+        "type": "Cracked",
+        "value": 5093.699912942008
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-07 16:57:56.793505",
+        "number": "C-44365",
+        "type": "Re-trial",
+        "value": 9365.70868149291
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-07 16:57:56.793944",
+        "number": "C-85944",
+        "type": "Cracked",
+        "value": 12474.025877011358
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-07 16:57:56.794096",
+        "number": "C-13218",
+        "type": "Re-trial",
+        "value": 16760.01978771771
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-07 16:57:56.794355",
+        "number": "C-41592",
+        "type": "Guilty plea",
+        "value": 10096.250931398044
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-07 16:57:56.794400",
+        "number": "C-82175",
+        "type": "Re-trial",
+        "value": 18165.22954606314
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-07 16:57:56.794461",
+        "number": "C-75227",
+        "type": "Re-trial",
+        "value": 41115.19059562411
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-07 16:57:56.795429",
+        "number": "C-62265",
+        "type": "Trial",
+        "value": 16902.941765533014
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-07 16:57:56.795491",
+        "number": "C-49567",
+        "type": "Re-trial",
+        "value": 13189.985540368003
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-07 16:57:56.797134",
+        "number": "C-64005",
+        "type": "Re-trial",
+        "value": 5834.268978304699
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-07 16:57:56.797149",
+        "number": "C-93008",
+        "type": "Fixed fee",
+        "value": 46647.74310035912
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-07 16:57:56.797749",
+        "number": "C-31802",
+        "type": "Cracked",
+        "value": 5824.430840727863
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-07 16:57:56.798293",
+        "number": "C-40527",
+        "type": "Fixed fee",
+        "value": 12248.640461493393
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-08 16:57:56.792022",
+        "number": "C-79610",
+        "type": "Guilty plea",
+        "value": 1099.6794258186765
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-08 16:57:56.792467",
+        "number": "C-25331",
+        "type": "Cracked",
+        "value": 29304.789165527083
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-08 16:57:56.793186",
+        "number": "C-50529",
+        "type": "Re-trial",
+        "value": 10706.775157051949
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-08 16:57:56.793231",
+        "number": "C-60033",
+        "type": "Guilty plea",
+        "value": 6684.714368768439
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-08 16:57:56.793367",
+        "number": "C-14829",
+        "type": "Re-trial",
+        "value": 45020.706215425154
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-08 16:57:56.793397",
+        "number": "C-15175",
+        "type": "Fixed fee",
+        "value": 17770.417069646654
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-06-08 16:57:56.793567",
+        "number": "C-11270",
+        "type": "Guilty plea",
+        "value": 3855.4543599941358
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-08 16:57:56.794902",
+        "number": "C-34146",
+        "type": "Fixed fee",
+        "value": 9872.122252186009
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-08 16:57:56.794917",
+        "number": "C-11687",
+        "type": "Re-trial",
+        "value": 17088.20934607759
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-08 16:57:56.795157",
+        "number": "C-56735",
+        "type": "Trial",
+        "value": 13561.721881622323
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-08 16:57:56.795384",
+        "number": "C-38302",
+        "type": "Guilty plea",
+        "value": 10156.9709974877
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-08 16:57:56.795739",
+        "number": "C-22804",
+        "type": "Re-trial",
+        "value": 8941.591480617666
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-08 16:57:56.796405",
+        "number": "C-91334",
+        "type": "Re-trial",
+        "value": 14733.483898591228
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-08 16:57:56.796695",
+        "number": "C-18202",
+        "type": "Fixed fee",
+        "value": 2303.775043779218
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-08 16:57:56.797072",
+        "number": "C-97790",
+        "type": "Trial",
+        "value": 14680.834999659804
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-08 16:57:56.797578",
+        "number": "C-60392",
+        "type": "Fixed fee",
+        "value": 9581.309156042695
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-08 16:57:56.798249",
+        "number": "C-25173",
+        "type": "Guilty plea",
+        "value": 7663.537082915273
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-08 16:57:56.798495",
+        "number": "C-66660",
+        "type": "Re-trial",
+        "value": 18234.920168750086
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-08 16:57:56.798742",
+        "number": "C-51602",
+        "type": "Re-trial",
+        "value": 1135.2801646856415
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-08 16:57:56.799043",
+        "number": "C-52963",
+        "type": "Fixed fee",
+        "value": 46892.87342696306
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-09 16:57:56.792085",
+        "number": "C-56878",
+        "type": "Fixed fee",
+        "value": 13777.239707028088
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-09 16:57:56.792698",
+        "number": "C-99841",
+        "type": "Trial",
+        "value": 15471.628448057074
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-09 16:57:56.793899",
+        "number": "C-46319",
+        "type": "Re-trial",
+        "value": 15583.716793556152
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-09 16:57:56.794051",
+        "number": "C-31599",
+        "type": "Cracked",
+        "value": 8260.731647784252
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-09 16:57:56.795584",
+        "number": "C-17909",
+        "type": "Cracked",
+        "value": 18853.497379015247
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-09 16:57:56.795599",
+        "number": "C-77522",
+        "type": "Cracked",
+        "value": 69363.15227334487
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-09 16:57:56.795614",
+        "number": "C-30220",
+        "type": "Trial",
+        "value": 8471.601682931494
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-09 16:57:56.795629",
+        "number": "C-10428",
+        "type": "Guilty plea",
+        "value": 13080.389731886638
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-09 16:57:56.795768",
+        "number": "C-18075",
+        "type": "Trial",
+        "value": 17016.340772125586
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-09 16:57:56.796149",
+        "number": "C-27447",
+        "type": "Fixed fee",
+        "value": 14094.277961661715
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-09 16:57:56.796648",
+        "number": "C-29179",
+        "type": "Trial",
+        "value": 16887.38028495271
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-09 16:57:56.797209",
+        "number": "C-35861",
+        "type": "Fixed fee",
+        "value": 927.3089888575388
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-09 16:57:56.797224",
+        "number": "C-93142",
+        "type": "Fixed fee",
+        "value": 17284.096647784485
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-09 16:57:56.798956",
+        "number": "C-35068",
+        "type": "Guilty plea",
+        "value": 1007.1925355589119
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-10 16:57:56.792496",
+        "number": "C-25135",
+        "type": "Trial",
+        "value": 9778.901509209054
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-10 16:57:56.793441",
+        "number": "C-30491",
+        "type": "Guilty plea",
+        "value": 11959.072759074877
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-10 16:57:56.794385",
+        "number": "C-52487",
+        "type": "Cracked",
+        "value": 12531.487084646322
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-10 16:57:56.794538",
+        "number": "C-50815",
+        "type": "Guilty plea",
+        "value": 37992.79487101021
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-10 16:57:56.795887",
+        "number": "C-93246",
+        "type": "Trial",
+        "value": 9593.482090087733
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-10 16:57:56.796299",
+        "number": "C-62014",
+        "type": "Guilty plea",
+        "value": 9089.5649988663
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-10 16:57:56.796390",
+        "number": "C-81237",
+        "type": "Guilty plea",
+        "value": 16569.410926960958
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-10 16:57:56.796888",
+        "number": "C-15064",
+        "type": "Trial",
+        "value": 18898.449478411323
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-10 16:57:56.797461",
+        "number": "C-26433",
+        "type": "Cracked",
+        "value": 2128.1650486214844
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-11 16:57:56.791588",
+        "number": "C-47749",
+        "type": "Cracked",
+        "value": 1783.4542333955542
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-11 16:57:56.791850",
+        "number": "C-52245",
+        "type": "Re-trial",
+        "value": 36745.79610749599
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-11 16:57:56.792100",
+        "number": "C-67307",
+        "type": "Re-trial",
+        "value": 11667.485432121763
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-11 16:57:56.792308",
+        "number": "C-99738",
+        "type": "Re-trial",
+        "value": 691.5982439783509
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-11 16:57:56.792383",
+        "number": "C-87748",
+        "type": "Re-trial",
+        "value": 12043.49310557032
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-11 16:57:56.792543",
+        "number": "C-67435",
+        "type": "Cracked",
+        "value": 16985.78252495797
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-06-11 16:57:56.793929",
+        "number": "C-90073",
+        "type": "Re-trial",
+        "value": 8007.241444357583
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-11 16:57:56.794631",
+        "number": "C-75272",
+        "type": "Re-trial",
+        "value": 7450.8057559630415
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-11 16:57:56.794750",
+        "number": "C-36569",
+        "type": "Cracked",
+        "value": 7083.837801170757
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-11 16:57:56.794946",
+        "number": "C-40351",
+        "type": "Cracked",
+        "value": 2801.7807906342664
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-11 16:57:56.795095",
+        "number": "C-39385",
+        "type": "Re-trial",
+        "value": 11800.963266557683
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-11 16:57:56.795295",
+        "number": "C-22238",
+        "type": "Cracked",
+        "value": 15276.31134989089
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-11 16:57:56.795753",
+        "number": "C-45108",
+        "type": "Trial",
+        "value": 13176.112810428065
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-11 16:57:56.795872",
+        "number": "C-21874",
+        "type": "Guilty plea",
+        "value": 47282.760367023286
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-11 16:57:56.796479",
+        "number": "C-99194",
+        "type": "Fixed fee",
+        "value": 2028.5933867020926
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-11 16:57:56.796755",
+        "number": "C-63141",
+        "type": "Guilty plea",
+        "value": 2074.5374297599164
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-11 16:57:56.797478",
+        "number": "C-82451",
+        "type": "Guilty plea",
+        "value": 12262.957403332648
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-11 16:57:56.797550",
+        "number": "C-41155",
+        "type": "Guilty plea",
+        "value": 17661.093592096644
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-11 16:57:56.798580",
+        "number": "C-90504",
+        "type": "Trial",
+        "value": 7596.223652728798
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-11 16:57:56.798671",
+        "number": "C-31722",
+        "type": "Fixed fee",
+        "value": 22374.04754406025
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-11 16:57:56.798714",
+        "number": "C-80906",
+        "type": "Fixed fee",
+        "value": 10118.683581618496
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-11 16:57:56.799001",
+        "number": "C-45694",
+        "type": "Trial",
+        "value": 15149.051038589756
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-12 16:57:56.792160",
+        "number": "C-65661",
+        "type": "Guilty plea",
+        "value": 16550.78059401826
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-12 16:57:56.792353",
+        "number": "C-41011",
+        "type": "Guilty plea",
+        "value": 55511.07974557124
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-12 16:57:56.793216",
+        "number": "C-78363",
+        "type": "Trial",
+        "value": 28658.434132705723
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-12 16:57:56.793597",
+        "number": "C-81783",
+        "type": "Cracked",
+        "value": 44330.01381537606
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-12 16:57:56.793884",
+        "number": "C-38724",
+        "type": "Guilty plea",
+        "value": 17853.415613540703
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-12 16:57:56.794007",
+        "number": "C-36527",
+        "type": "Cracked",
+        "value": 5813.105265662869
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-12 16:57:56.795021",
+        "number": "C-55234",
+        "type": "Fixed fee",
+        "value": 18898.88740207902
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-12 16:57:56.795203",
+        "number": "C-87485",
+        "type": "Cracked",
+        "value": 2397.4426131302025
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-12 16:57:56.795233",
+        "number": "C-77118",
+        "type": "Cracked",
+        "value": 16061.628674627427
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-12 16:57:56.795325",
+        "number": "C-99228",
+        "type": "Fixed fee",
+        "value": 13344.636434028434
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-12 16:57:56.796769",
+        "number": "C-22729",
+        "type": "Fixed fee",
+        "value": 57890.3531846289
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-12 16:57:56.797042",
+        "number": "C-37321",
+        "type": "Cracked",
+        "value": 5584.811552584246
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-12 16:57:56.797361",
+        "number": "C-20236",
+        "type": "Guilty plea",
+        "value": 18563.529863209544
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-12 16:57:56.797835",
+        "number": "C-59787",
+        "type": "Fixed fee",
+        "value": 5821.933546328073
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-12 16:57:56.798857",
+        "number": "C-99371",
+        "type": "Re-trial",
+        "value": 15712.084117417457
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-13 16:57:56.791821",
+        "number": "C-96889",
+        "type": "Guilty plea",
+        "value": 18673.863988323807
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-13 16:57:56.792924",
+        "number": "C-21507",
+        "type": "Fixed fee",
+        "value": 17968.53788537006
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-13 16:57:56.792969",
+        "number": "C-36417",
+        "type": "Guilty plea",
+        "value": 15004.189457498782
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-13 16:57:56.793031",
+        "number": "C-23467",
+        "type": "Cracked",
+        "value": 53954.30589103853
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-13 16:57:56.793732",
+        "number": "C-61927",
+        "type": "Cracked",
+        "value": 16432.033489394533
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-13 16:57:56.793807",
+        "number": "C-81309",
+        "type": "Fixed fee",
+        "value": 3615.549282622745
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-13 16:57:56.794323",
+        "number": "C-75017",
+        "type": "Fixed fee",
+        "value": 15389.573125767563
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-13 16:57:56.794432",
+        "number": "C-70141",
+        "type": "Trial",
+        "value": 15543.590071220246
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-13 16:57:56.794523",
+        "number": "C-39226",
+        "type": "Fixed fee",
+        "value": 18822.904867807098
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-13 16:57:56.794616",
+        "number": "C-39591",
+        "type": "Re-trial",
+        "value": 2603.7985968549933
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-13 16:57:56.794705",
+        "number": "C-33355",
+        "type": "Guilty plea",
+        "value": 18998.583477109984
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-13 16:57:56.794853",
+        "number": "C-82766",
+        "type": "Fixed fee",
+        "value": 13636.75101878539
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-13 16:57:56.795127",
+        "number": "C-57795",
+        "type": "Guilty plea",
+        "value": 7726.814931677626
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-13 16:57:56.795310",
+        "number": "C-13525",
+        "type": "Cracked",
+        "value": 51334.37609049112
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-13 16:57:56.796042",
+        "number": "C-37523",
+        "type": "Re-trial",
+        "value": 12973.826686412312
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-13 16:57:56.796252",
+        "number": "C-34984",
+        "type": "Fixed fee",
+        "value": 24727.74246280211
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-13 16:57:56.796267",
+        "number": "C-30030",
+        "type": "Cracked",
+        "value": 18828.39894629383
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-13 16:57:56.796360",
+        "number": "C-51731",
+        "type": "Trial",
+        "value": 10125.656612736322
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-13 16:57:56.796589",
+        "number": "C-51005",
+        "type": "Guilty plea",
+        "value": 5042.580032373301
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-13 16:57:56.796799",
+        "number": "C-21949",
+        "type": "Trial",
+        "value": 24852.054910846942
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-13 16:57:56.796920",
+        "number": "C-13547",
+        "type": "Trial",
+        "value": 17122.67154870186
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-13 16:57:56.797635",
+        "number": "C-25045",
+        "type": "Fixed fee",
+        "value": 7739.466582652748
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-13 16:57:56.797893",
+        "number": "C-49659",
+        "type": "Trial",
+        "value": 4960.514003057209
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-13 16:57:56.798265",
+        "number": "C-31835",
+        "type": "Trial",
+        "value": 10732.276867295433
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-13 16:57:56.798756",
+        "number": "C-66798",
+        "type": "Guilty plea",
+        "value": 59738.91049162369
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-13 16:57:56.798913",
+        "number": "C-71387",
+        "type": "Re-trial",
+        "value": 10405.496427419996
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-14 16:57:56.791605",
+        "number": "C-41265",
+        "type": "Cracked",
+        "value": 4230.46892798224
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-14 16:57:56.791710",
+        "number": "C-55696",
+        "type": "Trial",
+        "value": 12586.767318442207
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-14 16:57:56.792263",
+        "number": "C-28157",
+        "type": "Trial",
+        "value": 12717.8266839179
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-14 16:57:56.792482",
+        "number": "C-35391",
+        "type": "Cracked",
+        "value": 3362.9634108404907
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-14 16:57:56.793974",
+        "number": "C-32374",
+        "type": "Re-trial",
+        "value": 8499.514202363644
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-14 16:57:56.794140",
+        "number": "C-40900",
+        "type": "Fixed fee",
+        "value": 7022.120665203212
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-14 16:57:56.795080",
+        "number": "C-46341",
+        "type": "Re-trial",
+        "value": 18517.74287122547
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-14 16:57:56.795658",
+        "number": "C-95551",
+        "type": "Guilty plea",
+        "value": 2207.1347255869086
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-14 16:57:56.795723",
+        "number": "C-95122",
+        "type": "Re-trial",
+        "value": 66552.30632459416
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-14 16:57:56.795842",
+        "number": "C-84170",
+        "type": "Re-trial",
+        "value": 12828.545719114738
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-14 16:57:56.797301",
+        "number": "C-90898",
+        "type": "Guilty plea",
+        "value": 9545.209724444427
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-14 16:57:56.797677",
+        "number": "C-86635",
+        "type": "Re-trial",
+        "value": 16161.729355498104
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-14 16:57:56.798657",
+        "number": "C-27746",
+        "type": "Fixed fee",
+        "value": 12868.31209131143
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-14 16:57:56.799085",
+        "number": "C-51943",
+        "type": "Fixed fee",
+        "value": 36879.75897186714
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-15 16:57:56.792232",
+        "number": "C-13076",
+        "type": "Guilty plea",
+        "value": 13392.217693275195
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-15 16:57:56.793854",
+        "number": "C-86659",
+        "type": "Cracked",
+        "value": 48177.8306487682
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-15 16:57:56.794036",
+        "number": "C-68059",
+        "type": "Trial",
+        "value": 8826.439427628999
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-15 16:57:56.794308",
+        "number": "C-88360",
+        "type": "Re-trial",
+        "value": 9679.918399138325
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-15 16:57:56.794884",
+        "number": "C-25279",
+        "type": "Trial",
+        "value": 8852.583394988707
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-15 16:57:56.795355",
+        "number": "C-43452",
+        "type": "Re-trial",
+        "value": 21546.754534724045
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-15 16:57:56.795857",
+        "number": "C-11742",
+        "type": "Trial",
+        "value": 9500.468379018319
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-15 16:57:56.795920",
+        "number": "C-76911",
+        "type": "Guilty plea",
+        "value": 23220.83318062916
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-15 16:57:56.796119",
+        "number": "C-35857",
+        "type": "Cracked",
+        "value": 657.1707230181905
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-15 16:57:56.796223",
+        "number": "C-35833",
+        "type": "Cracked",
+        "value": 10290.449791686111
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-15 16:57:56.796559",
+        "number": "C-51310",
+        "type": "Trial",
+        "value": 17252.342103191215
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-15 16:57:56.797492",
+        "number": "C-26024",
+        "type": "Trial",
+        "value": 17386.340146490307
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-15 16:57:56.798409",
+        "number": "C-62890",
+        "type": "Cracked",
+        "value": 1498.5461467736623
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-15 16:57:56.798885",
+        "number": "C-90745",
+        "type": "Cracked",
+        "value": 10310.278338410639
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-16 16:57:56.792037",
+        "number": "C-52112",
+        "type": "Trial",
+        "value": 10573.677713504498
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-16 16:57:56.792278",
+        "number": "C-18251",
+        "type": "Fixed fee",
+        "value": 1324.9612018812609
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-16 16:57:56.792324",
+        "number": "C-16161",
+        "type": "Fixed fee",
+        "value": 4266.134399855083
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-16 16:57:56.792591",
+        "number": "C-23643",
+        "type": "Trial",
+        "value": 9818.116485328319
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-16 16:57:56.792757",
+        "number": "C-98444",
+        "type": "Trial",
+        "value": 3289.2739809810328
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-16 16:57:56.793535",
+        "number": "C-96096",
+        "type": "Fixed fee",
+        "value": 6190.86963062598
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-16 16:57:56.793703",
+        "number": "C-68273",
+        "type": "Cracked",
+        "value": 13323.928783678299
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-16 16:57:56.793822",
+        "number": "C-46724",
+        "type": "Fixed fee",
+        "value": 7519.8943552107
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-16 16:57:56.794491",
+        "number": "C-41172",
+        "type": "Trial",
+        "value": 59857.809687161236
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-16 16:57:56.794690",
+        "number": "C-47494",
+        "type": "Cracked",
+        "value": 2734.2641999183033
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-16 16:57:56.795708",
+        "number": "C-96182",
+        "type": "Re-trial",
+        "value": 3082.474664725056
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-16 16:57:56.796663",
+        "number": "C-60079",
+        "type": "Trial",
+        "value": 18289.517265349663
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-16 16:57:56.796905",
+        "number": "C-94489",
+        "type": "Cracked",
+        "value": 15147.748610714247
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-16 16:57:56.797180",
+        "number": "C-42935",
+        "type": "Re-trial",
+        "value": 4531.87330457924
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-16 16:57:56.797195",
+        "number": "C-41136",
+        "type": "Trial",
+        "value": 7751.934633705445
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-16 16:57:56.797376",
+        "number": "C-48974",
+        "type": "Re-trial",
+        "value": 12989.8163777584
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-16 16:57:56.797707",
+        "number": "C-89375",
+        "type": "Cracked",
+        "value": 3638.1300999487585
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-16 16:57:56.798395",
+        "number": "C-60316",
+        "type": "Guilty plea",
+        "value": 54206.6029083003
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-16 16:57:56.798826",
+        "number": "C-95665",
+        "type": "Cracked",
+        "value": 9966.406135523684
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-16 16:57:56.798942",
+        "number": "C-48058",
+        "type": "Re-trial",
+        "value": 17389.138940203844
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-17 16:57:56.792606",
+        "number": "C-39116",
+        "type": "Fixed fee",
+        "value": 3654.502540121031
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-17 16:57:56.793490",
+        "number": "C-65244",
+        "type": "Trial",
+        "value": 23347.540967686626
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-17 16:57:56.793869",
+        "number": "C-59080",
+        "type": "Trial",
+        "value": 50227.50916669122
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-17 16:57:56.794414",
+        "number": "C-70446",
+        "type": "Trial",
+        "value": 8585.435163366381
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-17 16:57:56.794675",
+        "number": "C-84999",
+        "type": "Cracked",
+        "value": 28539.5501826998
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-17 16:57:56.795458",
+        "number": "C-64113",
+        "type": "Fixed fee",
+        "value": 12909.972069779174
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-17 16:57:56.795473",
+        "number": "C-34919",
+        "type": "Cracked",
+        "value": 22810.34671671212
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-17 16:57:56.795520",
+        "number": "C-18734",
+        "type": "Cracked",
+        "value": 888.8804614166845
+    },
+    {
+        "advocate": "Nick Smith",
+        "date": "2015-06-17 16:57:56.796164",
+        "number": "C-37652",
+        "type": "Guilty plea",
+        "value": 1715.8531956237737
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-17 16:57:56.796873",
+        "number": "C-54935",
+        "type": "Guilty plea",
+        "value": 8201.142980802291
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-17 16:57:56.797649",
+        "number": "C-56358",
+        "type": "Guilty plea",
+        "value": 12788.701392485727
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-17 16:57:56.797991",
+        "number": "C-38962",
+        "type": "Fixed fee",
+        "value": 8163.717161369363
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-17 16:57:56.798019",
+        "number": "C-11240",
+        "type": "Trial",
+        "value": 13991.053268540341
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-17 16:57:56.798106",
+        "number": "C-81407",
+        "type": "Trial",
+        "value": 14082.359636205103
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-17 16:57:56.798336",
+        "number": "C-16344",
+        "type": "Re-trial",
+        "value": 6037.949225203194
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-18 16:57:56.791637",
+        "number": "C-65782",
+        "type": "Fixed fee",
+        "value": 7638.5733787999225
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-18 16:57:56.792071",
+        "number": "C-74328",
+        "type": "Trial",
+        "value": 2943.7135108294037
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-18 16:57:56.792293",
+        "number": "C-96048",
+        "type": "Guilty plea",
+        "value": 15106.336902322602
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-18 16:57:56.792338",
+        "number": "C-93529",
+        "type": "Re-trial",
+        "value": 6556.6037940889855
+    },
+    {
+        "advocate": "Jamie Pass",
+        "date": "2015-06-18 16:57:56.792909",
+        "number": "C-75323",
+        "type": "Guilty plea",
+        "value": 17966.497372041544
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-18 16:57:56.793427",
+        "number": "C-31523",
+        "type": "Fixed fee",
+        "value": 15164.913918224365
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-18 16:57:56.793475",
+        "number": "C-19089",
+        "type": "Fixed fee",
+        "value": 8756.849252420463
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-18 16:57:56.793914",
+        "number": "C-72697",
+        "type": "Fixed fee",
+        "value": 9934.838245923764
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-18 16:57:56.794263",
+        "number": "C-99027",
+        "type": "Trial",
+        "value": 14977.91973338904
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-18 16:57:56.794961",
+        "number": "C-67331",
+        "type": "Trial",
+        "value": 11408.191002797459
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-18 16:57:56.795248",
+        "number": "C-71081",
+        "type": "Re-trial",
+        "value": 31215.875558839944
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-18 16:57:56.795340",
+        "number": "C-45540",
+        "type": "Cracked",
+        "value": 60953.50297940666
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-18 16:57:56.795568",
+        "number": "C-57667",
+        "type": "Re-trial",
+        "value": 11163.631100332479
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-18 16:57:56.795673",
+        "number": "C-95934",
+        "type": "Cracked",
+        "value": 4919.939539495814
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-18 16:57:56.795783",
+        "number": "C-46856",
+        "type": "Cracked",
+        "value": 18797.38315535995
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-18 16:57:56.796072",
+        "number": "C-91470",
+        "type": "Cracked",
+        "value": 41561.73193401601
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-18 16:57:56.796435",
+        "number": "C-50283",
+        "type": "Re-trial",
+        "value": 9083.341042915916
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-18 16:57:56.796465",
+        "number": "C-13141",
+        "type": "Fixed fee",
+        "value": 9379.418675449868
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-18 16:57:56.796544",
+        "number": "C-91861",
+        "type": "Re-trial",
+        "value": 10371.680725401204
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-18 16:57:56.798279",
+        "number": "C-87778",
+        "type": "Guilty plea",
+        "value": 17845.65577587212
+    },
+    {
+        "advocate": "Helen Ager",
+        "date": "2015-06-18 16:57:56.798350",
+        "number": "C-88594",
+        "type": "Trial",
+        "value": 1528.3173174556507
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-18 16:57:56.798453",
+        "number": "C-17031",
+        "type": "Cracked",
+        "value": 16546.897367588757
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-18 16:57:56.798871",
+        "number": "C-89937",
+        "type": "Re-trial",
+        "value": 15322.909599046416
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-19 16:57:56.791572",
+        "number": "C-67561",
+        "type": "Cracked",
+        "value": 12905.67010026232
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-19 16:57:56.791652",
+        "number": "C-19419",
+        "type": "Re-trial",
+        "value": 11855.771439998956
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-19 16:57:56.792713",
+        "number": "C-94744",
+        "type": "Trial",
+        "value": 14805.520755518204
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-19 16:57:56.792743",
+        "number": "C-56826",
+        "type": "Cracked",
+        "value": 17518.22218634104
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-06-19 16:57:56.793138",
+        "number": "C-63206",
+        "type": "Cracked",
+        "value": 1679.5804769885708
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-19 16:57:56.793261",
+        "number": "C-88130",
+        "type": "Trial",
+        "value": 21572.18854557526
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-19 16:57:56.793644",
+        "number": "C-34039",
+        "type": "Trial",
+        "value": 2290.362611966621
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-19 16:57:56.793792",
+        "number": "C-32658",
+        "type": "Re-trial",
+        "value": 13409.476138912372
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-19 16:57:56.794081",
+        "number": "C-83962",
+        "type": "Fixed fee",
+        "value": 14409.70921210142
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-19 16:57:56.794869",
+        "number": "C-67482",
+        "type": "Re-trial",
+        "value": 8421.22556221675
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-19 16:57:56.795935",
+        "number": "C-52176",
+        "type": "Guilty plea",
+        "value": 9822.950998620021
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-19 16:57:56.797057",
+        "number": "C-41908",
+        "type": "Trial",
+        "value": 5134.798172214599
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-19 16:57:56.797087",
+        "number": "C-16072",
+        "type": "Fixed fee",
+        "value": 31060.83432694266
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-19 16:57:56.797391",
+        "number": "C-55627",
+        "type": "Trial",
+        "value": 17768.17150794455
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-19 16:57:56.797722",
+        "number": "C-32951",
+        "type": "Guilty plea",
+        "value": 12105.441747518958
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-19 16:57:56.797736",
+        "number": "C-82016",
+        "type": "Trial",
+        "value": 17998.831976553236
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-19 16:57:56.797907",
+        "number": "C-39544",
+        "type": "Guilty plea",
+        "value": 1103.2216858091165
+    },
+    {
+        "advocate": "John Ralph",
+        "date": "2015-06-19 16:57:56.798221",
+        "number": "C-62825",
+        "type": "Cracked",
+        "value": 4160.704608131832
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-19 16:57:56.798510",
+        "number": "C-63046",
+        "type": "Re-trial",
+        "value": 18870.346877455326
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-19 16:57:56.798728",
+        "number": "C-93087",
+        "type": "Fixed fee",
+        "value": 33468.335647668704
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-19 16:57:56.798927",
+        "number": "C-12779",
+        "type": "Guilty plea",
+        "value": 11115.314247922914
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-19 16:57:56.798970",
+        "number": "C-49727",
+        "type": "Cracked",
+        "value": 4841.417346932238
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-19 16:57:56.799015",
+        "number": "C-83354",
+        "type": "Fixed fee",
+        "value": 40768.48038616987
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-20 16:57:56.792368",
+        "number": "C-98608",
+        "type": "Fixed fee",
+        "value": 13776.468172002766
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-20 16:57:56.792511",
+        "number": "C-73841",
+        "type": "Fixed fee",
+        "value": 2112.309027779421
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-20 16:57:56.792526",
+        "number": "C-57727",
+        "type": "Guilty plea",
+        "value": 8827.703922004728
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-20 16:57:56.792849",
+        "number": "C-21636",
+        "type": "Guilty plea",
+        "value": 3002.67542742576
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-20 16:57:56.792894",
+        "number": "C-53175",
+        "type": "Cracked",
+        "value": 8065.8759674200855
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-20 16:57:56.793016",
+        "number": "C-71869",
+        "type": "Trial",
+        "value": 4642.1745387961755
+    },
+    {
+        "advocate": "Stephen Mackin",
+        "date": "2015-06-20 16:57:56.793062",
+        "number": "C-54462",
+        "type": "Cracked",
+        "value": 13524.045994102913
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-20 16:57:56.794583",
+        "number": "C-89254",
+        "type": "Re-trial",
+        "value": 36592.51195331209
+    },
+    {
+        "advocate": "John Davis",
+        "date": "2015-06-20 16:57:56.795280",
+        "number": "C-19587",
+        "type": "Guilty plea",
+        "value": 64202.19495923864
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-20 16:57:56.796329",
+        "number": "C-30846",
+        "type": "Guilty plea",
+        "value": 7372.570425951364
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-20 16:57:56.796345",
+        "number": "C-24498",
+        "type": "Cracked",
+        "value": 17529.572597621256
+    },
+    {
+        "advocate": "Ian Ward",
+        "date": "2015-06-20 16:57:56.797269",
+        "number": "C-97533",
+        "type": "Cracked",
+        "value": 10961.107403870234
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-20 16:57:56.797420",
+        "number": "C-42433",
+        "type": "Guilty plea",
+        "value": 5315.187439750722
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-20 16:57:56.797536",
+        "number": "C-94691",
+        "type": "Trial",
+        "value": 10633.560926250691
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-20 16:57:56.797879",
+        "number": "C-52676",
+        "type": "Cracked",
+        "value": 3341.090167329
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-20 16:57:56.798092",
+        "number": "C-13362",
+        "type": "Guilty plea",
+        "value": 4267.033134269419
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-20 16:57:56.798612",
+        "number": "C-73930",
+        "type": "Re-trial",
+        "value": 6934.882238413637
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-20 16:57:56.798798",
+        "number": "C-35504",
+        "type": "Trial",
+        "value": 3756.243870033747
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-20 16:57:56.798812",
+        "number": "C-71144",
+        "type": "Guilty plea",
+        "value": 5265.240880106938
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-20 16:57:56.798843",
+        "number": "C-44559",
+        "type": "Guilty plea",
+        "value": 10769.127423957172
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-21 16:57:56.791506",
+        "number": "C-89040",
+        "type": "Guilty plea",
+        "value": 7786.844546295207
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-21 16:57:56.791537",
+        "number": "C-78425",
+        "type": "Cracked",
+        "value": 12709.92766884295
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-21 16:57:56.791668",
+        "number": "C-86551",
+        "type": "Re-trial",
+        "value": 69584.30675844074
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-21 16:57:56.793629",
+        "number": "C-33286",
+        "type": "Trial",
+        "value": 16900.754064751047
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-21 16:57:56.794155",
+        "number": "C-72641",
+        "type": "Trial",
+        "value": 16383.870501537991
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-21 16:57:56.795172",
+        "number": "C-11644",
+        "type": "Cracked",
+        "value": 14739.339297068816
+    },
+    {
+        "advocate": "George Lyall",
+        "date": "2015-06-21 16:57:56.795218",
+        "number": "C-39327",
+        "type": "Re-trial",
+        "value": 25282.91606185252
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-21 16:57:56.795553",
+        "number": "C-12601",
+        "type": "Re-trial",
+        "value": 6147.32687155164
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-21 16:57:56.796089",
+        "number": "C-12442",
+        "type": "Trial",
+        "value": 50283.76087859679
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-21 16:57:56.798078",
+        "number": "C-18908",
+        "type": "Trial",
+        "value": 7806.092658910528
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-21 16:57:56.799113",
+        "number": "C-32277",
+        "type": "Trial",
+        "value": 14919.609187899443
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-22 16:57:56.791789",
+        "number": "C-59884",
+        "type": "Fixed fee",
+        "value": 18396.845675752014
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-22 16:57:56.791932",
+        "number": "C-70811",
+        "type": "Trial",
+        "value": 14758.60655457075
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-22 16:57:56.792184",
+        "number": "C-57586",
+        "type": "Trial",
+        "value": 18607.2956664486
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-22 16:57:56.792789",
+        "number": "C-66367",
+        "type": "Fixed fee",
+        "value": 4368.215938047953
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-22 16:57:56.792864",
+        "number": "C-43895",
+        "type": "Trial",
+        "value": 59273.84658896084
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-22 16:57:56.793320",
+        "number": "C-97660",
+        "type": "Trial",
+        "value": 10643.5062606606
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-22 16:57:56.793839",
+        "number": "C-22858",
+        "type": "Fixed fee",
+        "value": 26221.632872947004
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-22 16:57:56.794169",
+        "number": "C-77467",
+        "type": "Cracked",
+        "value": 3973.4917906855844
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-22 16:57:56.794248",
+        "number": "C-33529",
+        "type": "Fixed fee",
+        "value": 7855.467817711898
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-22 16:57:56.794340",
+        "number": "C-60115",
+        "type": "Re-trial",
+        "value": 22987.951736070514
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-22 16:57:56.794553",
+        "number": "C-90236",
+        "type": "Cracked",
+        "value": 2051.1842507733104
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-22 16:57:56.794568",
+        "number": "C-14581",
+        "type": "Fixed fee",
+        "value": 28321.82071636257
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-22 16:57:56.795050",
+        "number": "C-29566",
+        "type": "Trial",
+        "value": 10430.61981784552
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-22 16:57:56.795414",
+        "number": "C-37214",
+        "type": "Guilty plea",
+        "value": 3153.399494941371
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-22 16:57:56.796193",
+        "number": "C-25532",
+        "type": "Guilty plea",
+        "value": 25920.894613659177
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-22 16:57:56.796282",
+        "number": "C-79848",
+        "type": "Trial",
+        "value": 1087.410738739969
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-22 16:57:56.796375",
+        "number": "C-78219",
+        "type": "Trial",
+        "value": 30486.83793091768
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-22 16:57:56.796784",
+        "number": "C-68107",
+        "type": "Re-trial",
+        "value": 911.888702655272
+    },
+    {
+        "advocate": "Stephen McNicol",
+        "date": "2015-06-22 16:57:56.796950",
+        "number": "C-67936",
+        "type": "Re-trial",
+        "value": 11342.410588221834
+    },
+    {
+        "advocate": "Andrew Davison",
+        "date": "2015-06-22 16:57:56.797508",
+        "number": "C-67290",
+        "type": "Cracked",
+        "value": 15978.092924915474
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-22 16:57:56.798033",
+        "number": "C-72816",
+        "type": "Cracked",
+        "value": 10911.980164007302
+    },
+    {
+        "advocate": "Robert Phillips",
+        "date": "2015-06-22 16:57:56.798308",
+        "number": "C-40066",
+        "type": "Guilty plea",
+        "value": 53129.50196558662
+    },
+    {
+        "advocate": "Gillian Hall",
+        "date": "2015-06-22 16:57:56.798364",
+        "number": "C-43521",
+        "type": "Guilty plea",
+        "value": 16162.237594607543
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-22 16:57:56.798381",
+        "number": "C-80143",
+        "type": "Trial",
+        "value": 2954.2912833412156
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-22 16:57:56.798439",
+        "number": "C-72086",
+        "type": "Cracked",
+        "value": 11864.425036033139
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-22 16:57:56.798770",
+        "number": "C-98698",
+        "type": "Trial",
+        "value": 533.0093650579023
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-23 16:57:56.791521",
+        "number": "C-82697",
+        "type": "Cracked",
+        "value": 14704.521240661765
+    },
+    {
+        "advocate": "Rob Langley",
+        "date": "2015-06-23 16:57:56.792130",
+        "number": "C-73494",
+        "type": "Re-trial",
+        "value": 4888.77145024716
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-23 16:57:56.792984",
+        "number": "C-42741",
+        "type": "Re-trial",
+        "value": 656.9163001234867
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-23 16:57:56.793078",
+        "number": "C-63153",
+        "type": "Guilty plea",
+        "value": 7900.034607570695
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-23 16:57:56.793520",
+        "number": "C-16382",
+        "type": "Re-trial",
+        "value": 12311.652521083988
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-23 16:57:56.793762",
+        "number": "C-41572",
+        "type": "Guilty plea",
+        "value": 55740.633104750064
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-23 16:57:56.793959",
+        "number": "C-26773",
+        "type": "Trial",
+        "value": 16100.109150455995
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-23 16:57:56.794600",
+        "number": "C-17662",
+        "type": "Fixed fee",
+        "value": 1453.3391600792415
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-23 16:57:56.795006",
+        "number": "C-28025",
+        "type": "Cracked",
+        "value": 17650.505129419667
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-23 16:57:56.796179",
+        "number": "C-53352",
+        "type": "Guilty plea",
+        "value": 5505.441151213388
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-23 16:57:56.796238",
+        "number": "C-90987",
+        "type": "Cracked",
+        "value": 55803.21949478554
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-23 16:57:56.796618",
+        "number": "C-92768",
+        "type": "Guilty plea",
+        "value": 3650.8739223332286
+    },
+    {
+        "advocate": "Andy Hutchinson",
+        "date": "2015-06-23 16:57:56.796633",
+        "number": "C-13860",
+        "type": "Trial",
+        "value": 10951.501818442053
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-23 16:57:56.796982",
+        "number": "C-45984",
+        "type": "Fixed fee",
+        "value": 1838.8973435033915
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-23 16:57:56.798162",
+        "number": "C-22211",
+        "type": "Re-trial",
+        "value": 7379.542797297531
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-23 16:57:56.798481",
+        "number": "C-91618",
+        "type": "Cracked",
+        "value": 7605.408188373357
+    },
+    {
+        "advocate": "Jane Gibson",
+        "date": "2015-06-23 16:57:56.798686",
+        "number": "C-88852",
+        "type": "Cracked",
+        "value": 22250.747300472467
+    },
+    {
+        "advocate": "David Richardson",
+        "date": "2015-06-23 16:57:56.799057",
+        "number": "C-76692",
+        "type": "Cracked",
+        "value": 2080.940454600516
+    },
+    {
+        "advocate": "Adrian Stanley",
+        "date": "2015-06-24 16:57:56.792055",
+        "number": "C-85657",
+        "type": "Guilty plea",
+        "value": 3345.6445074302715
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-24 16:57:56.792728",
+        "number": "C-20449",
+        "type": "Fixed fee",
+        "value": 3372.2588610752737
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-24 16:57:56.793001",
+        "number": "C-98545",
+        "type": "Re-trial",
+        "value": 521.5400284797352
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-24 16:57:56.793992",
+        "number": "C-77985",
+        "type": "Guilty plea",
+        "value": 14683.41325101165
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-24 16:57:56.795112",
+        "number": "C-66645",
+        "type": "Cracked",
+        "value": 12428.883963421598
+    },
+    {
+        "advocate": "Tim Care",
+        "date": "2015-06-24 16:57:56.796057",
+        "number": "C-77006",
+        "type": "Trial",
+        "value": 2540.3359387508217
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-24 16:57:56.796104",
+        "number": "C-54474",
+        "type": "Cracked",
+        "value": 14696.49482300213
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-24 16:57:56.796814",
+        "number": "C-83616",
+        "type": "Trial",
+        "value": 7754.769846366169
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-24 16:57:56.796844",
+        "number": "C-33508",
+        "type": "Trial",
+        "value": 9049.512549751305
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-24 16:57:56.796965",
+        "number": "C-10472",
+        "type": "Cracked",
+        "value": 17466.111689522855
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-24 16:57:56.797286",
+        "number": "C-93571",
+        "type": "Trial",
+        "value": 2673.482116829556
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-24 16:57:56.797522",
+        "number": "C-70149",
+        "type": "Re-trial",
+        "value": 10258.890669926846
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-24 16:57:56.797564",
+        "number": "C-17716",
+        "type": "Guilty plea",
+        "value": 2713.83278961604
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-24 16:57:56.798120",
+        "number": "C-71105",
+        "type": "Re-trial",
+        "value": 3226.4180604317908
+    },
+    {
+        "advocate": "Bob Vickery",
+        "date": "2015-06-24 16:57:56.798629",
+        "number": "C-14201",
+        "type": "Trial",
+        "value": 18183.892349464637
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-25 16:57:56.791434",
+        "number": "C-28810",
+        "type": "Cracked",
+        "value": 4606.483882368553
+    },
+    {
+        "advocate": "David Bradshaw",
+        "date": "2015-06-25 16:57:56.792248",
+        "number": "C-37002",
+        "type": "Fixed fee",
+        "value": 4857.225486673734
+    },
+    {
+        "advocate": "David Rewcastle",
+        "date": "2015-06-25 16:57:56.792668",
+        "number": "C-66996",
+        "type": "Guilty plea",
+        "value": 15954.382894268827
+    },
+    {
+        "advocate": "Guy Mills",
+        "date": "2015-06-25 16:57:56.793201",
+        "number": "C-16041",
+        "type": "Fixed fee",
+        "value": 61737.23239890862
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-25 16:57:56.793305",
+        "number": "C-78623",
+        "type": "Guilty plea",
+        "value": 37714.92738737728
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-25 16:57:56.793659",
+        "number": "C-67499",
+        "type": "Guilty plea",
+        "value": 17382.60287308924
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-25 16:57:56.793688",
+        "number": "C-32141",
+        "type": "Cracked",
+        "value": 12446.284021914043
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-25 16:57:56.794293",
+        "number": "C-99023",
+        "type": "Re-trial",
+        "value": 14841.178998169546
+    },
+    {
+        "advocate": "Hugh Welch",
+        "date": "2015-06-25 16:57:56.794370",
+        "number": "C-57939",
+        "type": "Cracked",
+        "value": 3768.4733164654695
+    },
+    {
+        "advocate": "Caroline Humphrys",
+        "date": "2015-06-25 16:57:56.794476",
+        "number": "C-77779",
+        "type": "Cracked",
+        "value": 69299.71239913121
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-25 16:57:56.794976",
+        "number": "C-86069",
+        "type": "Cracked",
+        "value": 4295.853766260567
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-25 16:57:56.795065",
+        "number": "C-95681",
+        "type": "Guilty plea",
+        "value": 15463.935462795895
+    },
+    {
+        "advocate": "Simon Watts",
+        "date": "2015-06-25 16:57:56.795369",
+        "number": "C-53535",
+        "type": "Cracked",
+        "value": 9611.63707873499
+    },
+    {
+        "advocate": "Debbie Owens",
+        "date": "2015-06-25 16:57:56.795798",
+        "number": "C-66451",
+        "type": "Guilty plea",
+        "value": 15208.09073214653
+    },
+    {
+        "advocate": "Paul Dutton",
+        "date": "2015-06-25 16:57:56.796027",
+        "number": "C-76551",
+        "type": "Fixed fee",
+        "value": 7167.035565592516
+    },
+    {
+        "advocate": "Richard Arnot",
+        "date": "2015-06-25 16:57:56.796450",
+        "number": "C-31855",
+        "type": "Fixed fee",
+        "value": 14115.543014758563
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-25 16:57:56.796494",
+        "number": "C-38479",
+        "type": "Cracked",
+        "value": 12196.60100218882
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-25 16:57:56.796829",
+        "number": "C-11358",
+        "type": "Re-trial",
+        "value": 7794.038917682827
+    },
+    {
+        "advocate": "Andrew Facer",
+        "date": "2015-06-25 16:57:56.797102",
+        "number": "C-83605",
+        "type": "Cracked",
+        "value": 14404.17180785932
+    },
+    {
+        "advocate": "Neil Harrold",
+        "date": "2015-06-25 16:57:56.797254",
+        "number": "C-59571",
+        "type": "Trial",
+        "value": 16507.0115004633
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-25 16:57:56.797865",
+        "number": "C-18273",
+        "type": "Re-trial",
+        "value": 11074.640295033412
+    },
+    {
+        "advocate": "Joanne Major",
+        "date": "2015-06-25 16:57:56.797977",
+        "number": "C-79835",
+        "type": "Fixed fee",
+        "value": 58845.31287133561
+    },
+    {
+        "advocate": "Toby Gibson",
+        "date": "2015-06-25 16:57:56.798425",
+        "number": "C-83069",
+        "type": "Guilty plea",
+        "value": 15531.88169457854
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-25 16:57:56.799071",
+        "number": "C-21264",
+        "type": "Trial",
+        "value": 10796.623955854946
+    },
+    {
+        "advocate": "Christopher Welch",
+        "date": "2015-06-26 16:57:56.791742",
+        "number": "C-22506",
+        "type": "Trial",
+        "value": 9911.877580537981
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-26 16:57:56.791963",
+        "number": "C-60149",
+        "type": "Re-trial",
+        "value": 58266.35848285947
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-26 16:57:56.791992",
+        "number": "C-70816",
+        "type": "Trial",
+        "value": 34796.44144396966
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-26 16:57:56.792653",
+        "number": "C-92200",
+        "type": "Guilty plea",
+        "value": 16294.240810196052
+    },
+    {
+        "advocate": "Ian Collinson",
+        "date": "2015-06-26 16:57:56.793123",
+        "number": "C-78356",
+        "type": "Re-trial",
+        "value": 2839.3953570541626
+    },
+    {
+        "advocate": "Jeremy Smith",
+        "date": "2015-06-26 16:57:56.793382",
+        "number": "C-24900",
+        "type": "Guilty plea",
+        "value": 38761.556990347424
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-26 16:57:56.794932",
+        "number": "C-30015",
+        "type": "Cracked",
+        "value": 36063.807189893276
+    },
+    {
+        "advocate": "Martin Soloman",
+        "date": "2015-06-26 16:57:56.795188",
+        "number": "C-94641",
+        "type": "Fixed fee",
+        "value": 1629.6056732164502
+    },
+    {
+        "advocate": "Robert Thompson",
+        "date": "2015-06-26 16:57:56.795262",
+        "number": "C-53307",
+        "type": "Fixed fee",
+        "value": 11059.554775140732
+    },
+    {
+        "advocate": "Mark Lazenby",
+        "date": "2015-06-26 16:57:56.795949",
+        "number": "C-90840",
+        "type": "Fixed fee",
+        "value": 36778.35775450959
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-26 16:57:56.796134",
+        "number": "C-75742",
+        "type": "Guilty plea",
+        "value": 14751.403370291871
+    },
+    {
+        "advocate": "Nia Dawson",
+        "date": "2015-06-26 16:57:56.796858",
+        "number": "C-26027",
+        "type": "Guilty plea",
+        "value": 14850.077848232677
+    },
+    {
+        "advocate": "David Weatherburn",
+        "date": "2015-06-26 16:57:56.797435",
+        "number": "C-40974",
+        "type": "Re-trial",
+        "value": 41082.3887465657
+    },
+    {
+        "advocate": "Craig Hutchinson",
+        "date": "2015-06-26 16:57:56.797793",
+        "number": "C-94456",
+        "type": "Re-trial",
+        "value": 9997.606469719516
+    },
+    {
+        "advocate": "Sarah Smith",
+        "date": "2015-06-26 16:57:56.797935",
+        "number": "C-59806",
+        "type": "Cracked",
+        "value": 11843.88004099332
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-26 16:57:56.798134",
+        "number": "C-54235",
+        "type": "Cracked",
+        "value": 2741.8466793574175
+    },
+    {
+        "advocate": "Colin Hewitt",
+        "date": "2015-06-26 16:57:56.798176",
+        "number": "C-64171",
+        "type": "Guilty plea",
+        "value": 8459.098407774694
+    },
+    {
+        "advocate": "Chris Dawson",
+        "date": "2015-06-26 16:57:56.798235",
+        "number": "C-19456",
+        "type": "Guilty plea",
+        "value": 63647.379670880364
+    },
+    {
+        "advocate": "Glenn Calvert",
+        "date": "2015-06-26 16:57:56.798986",
+        "number": "C-44789",
+        "type": "Re-trial",
+        "value": 10704.075509820443
+    }
+]

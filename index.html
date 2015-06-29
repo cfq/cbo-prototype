@@ -124,49 +124,58 @@
           <ul class="claims-type-selector">
             <li>
               <label>
-                <input type="radio" name="claim-type" value="all" />
+                <input type="radio" name="claim-type" value="All" />
                 All
               </label>
             </li>
             <li>
               <label>
-                <input type="radio" name="claim-type" value="basic" />
+                <input type="radio" name="claim-type" value="Fixed fee" />
                 Fixed fee
               </label>
             </li>
             <li>
               <label>
-                <input type="radio" name="claim-type" value="cracked" />
+                <input type="radio" name="claim-type" value="Cracked" />
                 Cracked
               </label>
             </li>
             <li>
               <label>
-                <input type="radio" name="claim-type" value="retrial" />
+                <input type="radio" name="claim-type" value="Re-trial" />
                 Re-trial
               </label>
             </li>
             <li>
               <label>
-                <input type="radio" name="claim-type" value="trial" />
+                <input type="radio" name="claim-type" value="Trial" />
                 Trial
               </label>
             </li>
             <li>
               <label>
-                <input type="radio" name="claim-type" value="guilty-plea" checked />
+                <input type="radio" name="claim-type" value="Guilty plea" checked />
                 Guilty plea
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="radio" name="claim-type" value="Redetermination" />
+                Redetermination
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="radio" name="claim-type" value="written-reason" />
+                Written reason
               </label>
             </li>
           </ul>
 
+          <div class="sort-bar">
+            <a href="#" class="high-value-only">Show only high value claims</a>
+          </div>
 
-          <ul class="sort-bar">
-            <!-- <li class="sort-title">Show only</li> -->
-            <li>
-              <a href="#" class="high-value-only">Show only high value claims</a>
-            </li>
-          </ul>
 
           <p class="action-buttons">
             <select class="offices">
@@ -181,6 +190,8 @@
               <option value="">Ray Neal</option>
             </select>
 
+            <input type="number" name="assign-count" id="assing-count" placeholder="how many?" />
+
             <button class="button allocate-button">Allocate</button>
           </p>
         </section>
@@ -191,6 +202,7 @@
               <tr>
                 <th class="select-all-cell"><a href="#" class="select-all-button">Select all</a></th>
                 <th>Claim number</th>
+                <th>Advocate</th>
                 <th>Claim type</th>
                 <th>Date</th>
                 <th>Claim value</th>
@@ -198,43 +210,9 @@
             </thead>
             <tbody>
               <tr>
-                <td><input type="checkbox" id="claim-row-1" value=""/></td>
-                <td><label for="claim-row-1">B-1124-ABA-009</label></td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-              </tr>
-              <tr>
-                <td><input type="checkbox" id="claim-row-2" value=""/></td>
-                <td><label for="claim-row-2">B-1124-ABA-009</label></td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-              </tr>
-              <tr>
-                <td><input type="checkbox" id="claim-row-3" value=""/></td>
-                <td><label for="claim-row-3">B-1124-ABA-009</label></td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-              </tr>
-              <tr>
-                <td><input type="checkbox" id="claim-row-4" value=""/></td>
-                <td><label for="claim-row-4">B-1124-ABA-009</label></td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-              </tr>
-              <tr>
-                <td><input type="checkbox" id="claim-row-5" value=""/></td>
-                <td><label for="claim-row-5">B-1124-ABA-009</label></td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-              </tr>
-              <tr>
-                <td><input type="checkbox" id="claim-row-6" value=""/></td>
-                <td><label for="claim-row-6">B-1124-ABA-009</label></td>
+                <td><input type="checkbox" id="claim-row-1" value="" /></td>
+                <td>B-1124</td>
+                <td>Chris Dowson</td>
                 <td>Guilty plea</td>
                 <td>01/03/15</td>
                 <td>1,100,542.33</td>
@@ -249,42 +227,6 @@
           <p>
             You allocated the following 3 claims to: <a href="#">Kirsty Ram</a>, <a href="#">Liverpool office</a>
           </p>
-
-          <table>
-            <thead>
-              <tr>
-                <th>Claim number</th>
-                <th>Claim type</th>
-                <th>Date</th>
-                <th>Claim value</th>
-                <th></th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>B-1124-ABA-009</td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-                <td><a href="#">Reallocate</a></td>
-              </tr>
-              <tr>
-                <td>B-1124-ABA-009</td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-                <td><a href="#">Reallocate</a></td>
-              </tr>
-              <tr>
-                <td>B-1124-ABA-009</td>
-                <td>Guilty plea</td>
-                <td>01/03/15</td>
-                <td>1,100,542.33</td>
-                <td><a href="#">Reallocate</a></td>
-              </tr>
-            </tbody>
-          </table>
-
         </section>
 
       </main>
@@ -327,6 +269,7 @@
 <script src="/assets/fileinput.js?body=1"></script>
 <script src="/assets/judicialapportionment.js?body=1"></script>
 <script src="/assets/application.js?body=1"></script>
+<script src="/js/lodash.min.js"></script>
 <script src="/js/prototype.js"></script>
   </body>
 </html>
