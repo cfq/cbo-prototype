@@ -34,7 +34,7 @@
 }
 
 .allocation-summary {
-  margin-top: 3em;
+  margin: 3em 0;
 }
 
 .select-all-button {
@@ -54,6 +54,10 @@
   width: 700px;
 
   tbody {
+    tr {
+      cursor: pointer;
+    }
+
     td:first-child, td:nth-child(2) {
       cursor: pointer;
 

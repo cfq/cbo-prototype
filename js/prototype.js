@@ -4,15 +4,8 @@ $(function (){
     window.claims = data;
 
     setup();
+    populateTable(_.where(window.claims, {type: 'Guilty plea'}).slice(0, 40));
   });
-
-        // "advocate": "Guy Mills",
-        // "date": "2015-05-30 16:57:56.791896",
-        // "number": "C-95385",
-        // "type": "Fixed fee",
-        // "value": 54738.057174052956
-
-
 
   var populateTable = function ( rows ){
       $('.claim-list-table tbody tr').remove();
@@ -20,27 +13,43 @@ $(function (){
 
       for( var i=0; i<rows.length; i++ ){
         var $tr = $('<tr>');
-        $tr.append($( "<td>" + _.escape( rows[i].number ) + "</td"> ));
-        $tr.append($( "<td>" + _.escape( rows[i].advocate ) + "</td"> ));
-        $tr.append($( "<td>" + _.escape( rows[i]['type'] ) + "</td"> ));
-        $tr.append($( "<td>" + _.escape( rows[i]['value'] ) + "</td"> ));
-        $tr.append($( "<td>" + _.escape( rows[i]['date'] ) + "</td"> ));
+        var rowDate = new Date(rows[i]['date']);
+        var rowDateStr = [rowDate.getDate(), rowDate.getMonth(), rowDate.getFullYear()].join('/');
+
+        var rowValueStr = '£' + rows[i].value.toFixed(2).replace(/(\d)(?=(\d{3})+\.)/g, '$1,');
+
+        $tr.append('<td><input type="checkbox" /></td>')
+        $tr.append($( "<td>" + _.escape( rows[i].number   ) + "</td>" ));
+        $tr.append($( "<td>" + _.escape( rows[i].advocate ) + "</td>" ));
+        $tr.append($( "<td>" + _.escape( rows[i]['type']  ) + "</td>" ));
+        $tr.append($( "<td>" + _.escape( rowDateStr       ) + "</td>" ));
+        $tr.append($( "<td>" + _.escape( rowValueStr      ) + "</td>" ));
+
+        $tbody.append($tr);
       }
   }
-
 
   var setup = function (){
     var $typeSelectors = $('.claims-type-selector input');
 
     $typeSelectors.click(function ( event ){
       var $type = $(event.target);
-      console.log($type.val());
 
-      var selection = _.where(window.claims, {type: $type.val()}).slice(0, 40);
-      console.log(selection);
+      if( $type.val() == 'All' ){
+        var selection = window.claims.slice(0, 40);
+      }else{
+        var selection = _.where(window.claims, {type: $type.val()}).slice(0, 40);
+      }
+
+      populateTable(selection);
     });
 
 
+    $('.claim-list-table').on('click', 'tbody tr', function ( event ){
+      var $target = $(event.target);
+      var $input = $target.closest('tr').find('input');
+      $input.prop('checked', !$input.prop('checked'));
+    });
 
     var $selectAll = $('.select-all-button');
 
@@ -57,6 +66,24 @@ $(function (){
     });
 
     $('.allocate-button').click(function ( event ){
+      var $summary = $('.allocation-summary');
+      var $sump = $summary.find('p');
+
+      $sump.html('');
+
+      var type = $('.claims-type-selector input:checked').val()
+
+      var caseworker = $('.caseworkers option:selected').html();
+      var office = $('.offices option:selected').html();
+
+      var number = $("#assing-count").val() > 0
+                    ? $("#assing-count").val()
+                    : $('.claim-list-table input:checked').length;
+
+      $sump.html(["Allocated ", number, type, "claims to", caseworker, "in", office].join(' '));
+
+      $("#assing-count").val('');
+
       $('.allocation-summary').removeClass('hidden');
     });
 

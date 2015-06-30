@@ -23,7 +23,7 @@
   margin-right: 0.4em; }
 
 .allocation-summary {
-  margin-top: 3em; }
+  margin: 3em 0; }
 
 .select-all-button {
   width: 6em; }
@@ -36,6 +36,8 @@
 
 .claim-list-table {
   width: 700px; }
+  .claim-list-table tbody tr {
+    cursor: pointer; }
   .claim-list-table tbody td:first-child, .claim-list-table tbody td:nth-child(2) {
     cursor: pointer; }
     .claim-list-table tbody td:first-child label, .claim-list-table tbody td:first-child input, .claim-list-table tbody td:nth-child(2) label, .claim-list-table tbody td:nth-child(2) input {
