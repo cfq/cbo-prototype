@@ -29,6 +29,34 @@ $(function (){
       }
   }
 
+  var allocate = function (){
+    var $summary = $('.allocation-summary');
+    var $sump = $summary.find('p');
+
+    $sump.html('');
+
+    var type = $('.claims-type-selector input:checked').val()
+
+    var caseworker = $('.caseworkers option:selected').html();
+    var office = $('.offices option:selected').html();
+
+    var number = $("#assing-count").val() > 0
+                  ? $("#assing-count").val()
+                  : $('.claim-list-table input:checked').length;
+
+    $sump.html(["Allocated ",
+                  number,
+                  '<a href="#">' + type + "</a>",
+                  "claims to",
+                  '<a href="#">' + caseworker + "</a>",
+                  "in",
+                  '<a href="#">' + office + "</a>"].join(' '));
+
+    $("#assing-count").val('');
+
+    $('.allocation-summary').removeClass('hidden');
+  }
+
   var setup = function (){
     var $typeSelectors = $('.claims-type-selector input');
 
@@ -65,26 +93,12 @@ $(function (){
       }
     });
 
-    $('.allocate-button').click(function ( event ){
-      var $summary = $('.allocation-summary');
-      var $sump = $summary.find('p');
+    $('.allocate-button').click(allocate);
 
-      $sump.html('');
-
-      var type = $('.claims-type-selector input:checked').val()
-
-      var caseworker = $('.caseworkers option:selected').html();
-      var office = $('.offices option:selected').html();
-
-      var number = $("#assing-count").val() > 0
-                    ? $("#assing-count").val()
-                    : $('.claim-list-table input:checked').length;
-
-      $sump.html(["Allocated ", number, type, "claims to", caseworker, "in", office].join(' '));
-
-      $("#assing-count").val('');
-
-      $('.allocation-summary').removeClass('hidden');
+    $('#assing-count').keypress(function (event){
+      if( event.which == 13 ){
+        allocate();
+      }
     });
 
     var $highValue = $('.high-value-only');
